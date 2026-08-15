@@ -3,7 +3,7 @@
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  C# · ASP.NET Core · Web API · SQL Server · Oracle
+  C# • ASP.NET Core • Web API • SQL Server • Oracle
 </p>
 
 <p align="center">
@@ -13,110 +13,122 @@
 
 ---
 
-## 👨‍💻 Teknoloji Yığını
+## 🧑‍💻 Teknoloji Yığını
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="42" />
 </p>
 
-`C#` `ASP.NET Core` `ASP.NET Core MVC` `Web API` `RESTful API`
+**C#** · **.NET** · **ASP.NET Core** · **ASP.NET Core MVC** · **Web API** · **RESTful API**
 
-### Database & ORM
+<br>
+
+### Veritabanı & ORM
+
+**SQL Server** · **T-SQL** · **Oracle SQL** · **Entity Framework Core** · **LINQ** · **MongoDB**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" />
 </p>
 
-`SQL Server` `T-SQL` `Oracle SQL` `Entity Framework Core` `LINQ` `MongoDB`
+<br>
 
-### Backend & Architecture
+### Mimari & Backend
 
-`ASP.NET Core Identity` · `JWT` · `Authentication & Authorization`  
-`Repository Pattern` · `N-Tier Architecture` · `CQRS`  
-`Clean Architecture` · `Onion Architecture`
+**ASP.NET Core Identity** · **JWT** · **Authentication & Authorization**
 
-### Services & Messaging
+**N-Tier Architecture** · **Repository Pattern** · **CQRS**
+
+**Clean Architecture** · **Onion Architecture**
+
+<br>
+
+### Servisler & Messaging
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="42" />
 </p>
 
-`Hangfire` · `Windows Service` · `Background Jobs` · `RabbitMQ`
+**Hangfire** · **Windows Service** · **Background Jobs** · **RabbitMQ**
 
-### Tools
+<br>
+
+### Geliştirme Araçları
 
 <p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman" height="42" />
 </p>
 
-`Visual Studio` · `Git` · `GitHub` · `Postman` · `Swagger`
+**Visual Studio** · **Git** · **GitHub** · **Postman** · **Swagger**
 
-### Web
+<br>
+
+### Web Teknolojileri
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="42" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
+**HTML5** · **CSS3** · **JavaScript** · **Bootstrap**
 
 ---
 
 ## ⚡ Çalışma Alanları
 
 <p align="center">
-  <b>Backend Development</b> &nbsp;•&nbsp;
-  <b>RESTful APIs</b> &nbsp;•&nbsp;
-  <b>Database Development</b> &nbsp;•&nbsp;
-  <b>Background Services</b>
+  Backend Development &nbsp; • &nbsp;
+  RESTful APIs &nbsp; • &nbsp;
+  Database Development
 </p>
 
 <p align="center">
-  <b>Authentication & Authorization</b> &nbsp;•&nbsp;
-  <b>SQL</b> &nbsp;•&nbsp;
-  <b>Software Architecture</b>
+  Authentication & Authorization &nbsp; • &nbsp;
+  Background Services &nbsp; • &nbsp;
+  Software Architecture
 </p>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 🧩 Teknik Profil
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=muratcivek&show_icons=true&hide_border=true&theme=transparent&locale=tr" />
-</p>
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>C#, .NET, ASP.NET Core, MVC, Web API</td>
+</tr>
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcivek&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</p>
+<tr>
+<td><b>Database</b></td>
+<td>SQL Server, T-SQL, Oracle SQL, MongoDB</td>
+</tr>
 
----
+<tr>
+<td><b>Data Access</b></td>
+<td>Entity Framework Core, LINQ</td>
+</tr>
 
-## 🧩 Teknoloji Özeti
+<tr>
+<td><b>API</b></td>
+<td>RESTful API, Swagger, Postman</td>
+</tr>
 
-<p align="center">
+<tr>
+<td><b>Security</b></td>
+<td>Identity, JWT, Authentication, Authorization</td>
+</tr>
 
-**Languages**  
-C# · SQL · JavaScript
+<tr>
+<td><b>Architecture</b></td>
+<td>N-Tier, Repository Pattern, CQRS, Clean Architecture, Onion Architecture</td>
+</tr>
 
-**Frameworks**  
-.NET · ASP.NET Core · Entity Framework Core
-
-**Databases**  
-SQL Server · Oracle · MongoDB
-
-**Architecture**  
-N-Tier · Repository Pattern · CQRS · Clean Architecture · Onion Architecture
-
-**Backend Services**  
-Hangfire · Windows Service · RabbitMQ
-
-**Development Tools**  
-Git · GitHub · Postman · Swagger · Visual Studio
-
-</p>
+<tr>
+<td><b>Services</b></td>
+<td>Hangfire, Windows Service, RabbitMQ</td>
+</tr>
+</table>
 
 ---
 
