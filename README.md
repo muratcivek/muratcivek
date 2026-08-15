@@ -3,80 +3,123 @@
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  C# • ASP.NET Core • Web API • SQL Server • Oracle
+  C# · ASP.NET Core · Web API · SQL Server · Oracle
 </p>
 
 <p align="center">
-  .NET ekosisteminde backend geliştirme, RESTful API'ler,
-  veritabanı sistemleri ve sürdürülebilir yazılım mimarileri üzerine çalışıyorum.
+  Backend geliştirme, RESTful API'ler, veritabanı sistemleri ve
+  .NET ekosistemi üzerine çalışan yazılım geliştirici.
 </p>
 
 ---
 
-## Hakkımda
-
-Backend geliştirme alanında **C# ve .NET teknolojilerine** odaklanıyorum.
-
-ASP.NET Core MVC ve Web API ile uygulamalar geliştiriyor, veri erişiminde
-**Entity Framework Core**, veritabanı tarafında **SQL Server** ve **Oracle**
-kullanıyorum.
-
-Aynı zamanda modern backend mimarileri, background processing ve
-mesaj tabanlı sistemler üzerine kendimi geliştirmeye devam ediyorum.
-
----
-
-## Teknolojiler
+## 👨‍💻 Teknoloji Yığını
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </p>
 
-### Veritabanı
+`C#` `ASP.NET Core` `ASP.NET Core MVC` `Web API` `RESTful API`
+
+### Database & ORM
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Araçlar & Teknolojiler
+`SQL Server` `T-SQL` `Oracle SQL` `Entity Framework Core` `LINQ` `MongoDB`
+
+### Backend & Architecture
+
+`ASP.NET Core Identity` · `JWT` · `Authentication & Authorization`  
+`Repository Pattern` · `N-Tier Architecture` · `CQRS`  
+`Clean Architecture` · `Onion Architecture`
+
+### Services & Messaging
 
 <p>
-  <img src="https://img.shields.io/badge/Hangfire-212121?style=flat-square">
-  <img src="https://img.shields.io/badge/Windows%20Service-0078D4?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
+</p>
+
+`Hangfire` · `Windows Service` · `Background Jobs` · `RabbitMQ`
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman" />
+</p>
+
+`Visual Studio` · `Git` · `GitHub` · `Postman` · `Swagger`
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
+
+---
+
+## ⚡ Çalışma Alanları
+
+<p align="center">
+  <b>Backend Development</b> &nbsp;•&nbsp;
+  <b>RESTful APIs</b> &nbsp;•&nbsp;
+  <b>Database Development</b> &nbsp;•&nbsp;
+  <b>Background Services</b>
+</p>
+
+<p align="center">
+  <b>Authentication & Authorization</b> &nbsp;•&nbsp;
+  <b>SQL</b> &nbsp;•&nbsp;
+  <b>Software Architecture</b>
 </p>
 
 ---
 
-## Teknik Alanlar
+## 📊 GitHub İstatistikleri
 
-`ASP.NET Core` · `RESTful API` · `Entity Framework Core` · `LINQ`  
-`SQL Server` · `T-SQL` · `Oracle SQL` · `MongoDB`  
-`Authentication & Authorization` · `JWT` · `ASP.NET Core Identity`  
-`N-Tier Architecture` · `Repository Pattern` · `CQRS`  
-`Hangfire` · `Windows Service` · `RabbitMQ`
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=muratcivek&show_icons=true&hide_border=true&theme=transparent&locale=tr" />
+</p>
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcivek&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</p>
 
 ---
 
-## Şu Anda
+## 🧩 Teknoloji Özeti
 
-🌱 **MongoDB** ve modern .NET backend yaklaşımları üzerine çalışıyorum.  
-⚙️ **Clean Architecture** ve mesaj tabanlı sistemler konusunda kendimi geliştiriyorum.  
-🎯 Ana odağım **.NET Backend Development**.
+<p align="center">
+
+**Languages**  
+C# · SQL · JavaScript
+
+**Frameworks**  
+.NET · ASP.NET Core · Entity Framework Core
+
+**Databases**  
+SQL Server · Oracle · MongoDB
+
+**Architecture**  
+N-Tier · Repository Pattern · CQRS · Clean Architecture · Onion Architecture
+
+**Backend Services**  
+Hangfire · Windows Service · RabbitMQ
+
+**Development Tools**  
+Git · GitHub · Postman · Swagger · Visual Studio
+
+</p>
 
 ---
 
 <p align="center">
-  <b>C# • .NET • SQL • Backend Development</b>
+  <b>.NET • Backend • API • Database</b>
 </p>
