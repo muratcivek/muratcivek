@@ -1,35 +1,41 @@
 <h1 align="center">Murat Civek</h1>
 
-<h3 align="center">.NET Developer | Backend & Web Application Development</h3>
+<h3 align="center">.NET Developer | Backend & Web Uygulama Geliştirme</h3>
 
 <p align="center">
-  ASP.NET Core, Web API, MVC ve SQL Server teknolojileriyle
-  sürdürülebilir ve ölçeklenebilir uygulamalar geliştiriyorum.
+.NET ekosistemi üzerinde sürdürülebilir, güvenli ve ölçeklenebilir web uygulamaları geliştiriyorum.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muratcivek&label=Profile%20Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=muratcivek&label=Profil%20Görüntülenme&style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Hakkımda
 
-.NET ekosistemi üzerinde backend ve web uygulamaları geliştiriyorum.
+.NET ekosistemi üzerinde **backend ve web uygulama geliştirme** alanında çalışmalar yapıyorum.
 
-Projelerimde yalnızca çalışan uygulamalar geliştirmeye değil;  
-**katmanlı mimari, sürdürülebilir kod yapısı, veri erişim desenleri,
-kimlik doğrulama ve yetkilendirme** gibi gerçek dünya yazılım geliştirme
-prensiplerini uygulamaya odaklanıyorum.
+Projelerimde yalnızca çalışan bir uygulama ortaya çıkarmaya değil; sürdürülebilir kod yapısı, doğru mimari yaklaşım, veri erişim yönetimi, kimlik doğrulama ve yetkilendirme gibi gerçek dünya yazılım geliştirme süreçlerini uygulamaya önem veriyorum.
 
-Özellikle **ASP.NET Core MVC**, **Web API**, **Entity Framework Core**
-ve **SQL Server** teknolojileri üzerinde çalışıyorum.
+Başlıca çalışma alanlarım:
+
+- ASP.NET Core MVC ve Web API
+- Entity Framework Core
+- SQL Server
+- RESTful API geliştirme
+- Authentication & Authorization
+- ASP.NET Core Identity
+- JWT tabanlı kimlik doğrulama
+- Katmanlı ve Onion Architecture
+- CQRS
+- Repository ve Unit of Work desenleri
 
 ---
 
-## 🛠️ Tech Stack
+## Teknik Yetkinlikler
 
-### Backend
+### Backend & .NET
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -38,14 +44,14 @@ ve **SQL Server** teknolojileri üzerinde çalışıyorum.
   <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### Database & ORM
+### Veritabanı & ORM
 
 <p>
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Architecture & Patterns
+### Mimari & Tasarım Desenleri
 
 <p>
   <img src="https://img.shields.io/badge/Onion%20Architecture-333333?style=for-the-badge" />
@@ -55,7 +61,7 @@ ve **SQL Server** teknolojileri üzerinde çalışıyorum.
   <img src="https://img.shields.io/badge/Unit%20of%20Work-333333?style=for-the-badge" />
 </p>
 
-### Libraries & Backend Tools
+### Kütüphaneler & Araçlar
 
 <p>
   <img src="https://img.shields.io/badge/MediatR-333333?style=for-the-badge" />
@@ -63,12 +69,13 @@ ve **SQL Server** teknolojileri üzerinde çalışıyorum.
   <img src="https://img.shields.io/badge/FluentValidation-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Authentication & Security
+### Kimlik Doğrulama & Güvenlik
 
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authorization-333333?style=for-the-badge" />
@@ -85,162 +92,210 @@ ve **SQL Server** teknolojileri üzerinde çalışıyorum.
 
 ---
 
-## 🧩 What I Work With
+## Teknik Odak Alanlarım
 
 ```text
-.NET
-├── ASP.NET Core MVC
-├── ASP.NET Core Web API
-├── Entity Framework Core
-├── ASP.NET Core Identity
+.NET Ekosistemi
 │
-├── Architecture
-│   ├── N-Tier Architecture
+├── ASP.NET Core
+│   ├── MVC
+│   └── Web API
+│
+├── Veri Erişimi
+│   ├── Entity Framework Core
+│   ├── SQL Server
+│   └── Code First
+│
+├── Yazılım Mimarisi
+│   ├── Katmanlı Mimari
 │   └── Onion Architecture
 │
-├── Patterns
+├── Tasarım Desenleri
 │   ├── Repository Pattern
 │   ├── Unit of Work
 │   └── CQRS
 │
-├── Application
+├── Uygulama Katmanı
 │   ├── MediatR
 │   ├── AutoMapper
 │   └── FluentValidation
 │
-├── Security
-│   ├── JWT
-│   ├── Access Token
-│   ├── Refresh Token
-│   ├── Authentication
-│   └── Authorization
-│
-└── Database
-    ├── SQL Server
-    └── Entity Framework Core
+└── Güvenlik
+    ├── ASP.NET Core Identity
+    ├── JWT
+    ├── Access Token
+    ├── Refresh Token
+    ├── Authentication
+    └── Role-Based Authorization
 ```
 
 ---
 
-## 🚀 Selected Work
+# Seçilmiş Projeler
 
-Projelerimde farklı iş senaryolarını .NET ekosistemi içerisinde
-uygulamaya ve mimari yaklaşımları gerçek uygulamalar üzerinde
-deneyimlemeye odaklanıyorum.
+## IdentityMail
 
-### 📬 IdentityMail
+**Kurum İçi Mesajlaşma ve Yönetim Sistemi**
 
-ASP.NET Core MVC ile geliştirilmiş kurum içi mesajlaşma ve yönetim sistemi.
+ASP.NET Core MVC kullanılarak geliştirilen; kurum içi iletişim, kullanıcı yönetimi, rol tabanlı yetkilendirme ve mesaj moderasyonu süreçlerini tek sistem altında toplayan web uygulaması.
 
-`ASP.NET Core MVC` `EF Core` `SQL Server` `Identity` `RBAC`
+**Teknolojiler**
 
-- Kurum içi mesajlaşma
+`ASP.NET Core MVC` · `C#` · `Entity Framework Core` · `SQL Server` · `ASP.NET Core Identity`
+
+**Başlıca özellikler**
+
+- Kurum içi mesajlaşma sistemi
+- Gelen, gönderilen ve taslak mesaj yönetimi
+- Gelişmiş mesaj arama ve filtreleme
 - Authentication & Authorization
-- Rol tabanlı erişim kontrolü
+- Role-Based Access Control
 - Kullanıcı ve rol yönetimi
-- Mesaj moderasyon sistemi
+- Kullanıcı hesap durum yönetimi
+- Mesaj şikayet ve moderasyon sistemi
 - Yönetim paneli
-- Şifre sıfırlama süreçleri
+- Yönetici kontrollü şifre sıfırlama
+
+[Projeyi İncele →](https://github.com/muratcivek/IdentityMailProject)
 
 ---
 
-### 📦 Shipping Cost API
+## Modern Web API
 
-Sipariş desi bilgisine göre uygun kargo firmasını belirleyen ve
-kargo ücretini hesaplayan .NET Web API uygulaması.
+**Modern .NET Mimari Yaklaşımları ile Web API**
 
-`Web API` `EF Core` `CQRS` `Repository Pattern` `N-Tier` `Swagger`
+Sürdürülebilir ve genişletilebilir backend uygulamalarının geliştirilmesine yönelik modern .NET mimari yaklaşımlarının uygulandığı Web API projesi.
 
-- Otomatik kargo firması seçimi
-- Dinamik kargo ücreti hesaplama
-- Sipariş/veritabanı entegrasyonu
-- Swagger üzerinden API testi
+**Teknolojiler ve Yaklaşımlar**
 
----
+`ASP.NET Core Web API` · `Onion Architecture` · `CQRS` · `MediatR` · `Entity Framework Core` · `JWT`
 
-### 🌐 Modern Web API
-
-Modern backend geliştirme ve yazılım mimarisi prensipleri üzerine
-geliştirilmiş Web API projesi.
-
-`Onion Architecture` `CQRS` `MediatR` `JWT` `AutoMapper`
+**Başlıca özellikler**
 
 - Onion Architecture
-- CQRS
-- Repository & Unit of Work
+- CQRS yaklaşımı
+- Repository Pattern
+- Unit of Work
 - MediatR
 - AutoMapper
 - FluentValidation
 - Global Exception Handling
 - JWT Authentication
 - Access & Refresh Token
+- Identity tabanlı kullanıcı yönetimi
 
 ---
 
-### 🚗 Automotive Service & Sales Management
+## Kargo Ücreti Hesaplama API
 
-Oto servis ve satış operasyonlarının yönetilmesi için geliştirilmiş
-ASP.NET Core MVC web uygulaması.
+**Sipariş ve Kargo Ücreti Yönetim API'si**
 
-`ASP.NET Core MVC` `EF Core` `Repository Pattern` `N-Tier`
+Sipariş sırasında girilen desi bilgisine göre uygun kargo firmasını belirleyen ve ilgili tarife üzerinden kargo ücretini otomatik hesaplayan .NET Web API uygulaması.
 
-- Servis ve satış süreçleri
+**Teknolojiler ve Yaklaşımlar**
+
+`ASP.NET Core Web API` · `Entity Framework Core` · `SQL Server` · `CQRS` · `Repository Pattern` · `Swagger`
+
+**Başlıca özellikler**
+
+- Desi bazlı kargo firması seçimi
+- Dinamik kargo ücreti hesaplama
+- Sipariş ve kargo verilerinin yönetimi
+- Entity Framework Core Code First
 - Katmanlı mimari
-- Veri erişim yönetimi
+- CQRS
+- Repository Pattern
+- Swagger üzerinden API dokümantasyonu ve test
+
+---
+
+## Oto Servis ve Satış Yönetim Sistemi
+
+**ASP.NET Core MVC Tabanlı Yönetim Uygulaması**
+
+Oto servis ve satış süreçlerinin merkezi bir web uygulaması üzerinden yönetilmesi amacıyla geliştirilmiş ASP.NET Core MVC projesi.
+
+**Teknolojiler ve Yaklaşımlar**
+
+`ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Repository Pattern` · `N-Tier Architecture`
+
+**Başlıca özellikler**
+
+- Servis ve satış süreçlerinin yönetimi
+- Katmanlı mimari
+- Repository Pattern
+- Entity Framework Core veri erişimi
 - Authentication & Authorization
+- Kullanıcı yönetimi
 - Responsive kullanıcı arayüzü
 
 ---
 
-### 🏦 Customer Balance Analysis
+## Müşteri Bakiye Seyri
 
-Finans ve muhasebe verilerinin analiz edilmesine yönelik geliştirilen
-web tabanlı raporlama uygulaması.
+**Finansal Veri Analizi ve Görselleştirme Uygulaması**
 
-`C#` `SQL Server` `N-Tier Architecture` `JavaScript`
+Müşterilerin belirli dönemlerdeki borç hareketlerini analiz etmek ve maksimum borç bakiyesine ulaşılan tarihi belirlemek amacıyla geliştirilmiş web uygulaması.
 
-- Müşteri borç bakiyesi analizi
-- Maksimum borç bakiyesi tespiti
-- Tarihsel bakiye seyri
-- Veri görselleştirme
+**Teknolojiler**
 
----
+`C#` · `SQL Server` · `HTML` · `CSS` · `JavaScript`
 
-## 📊 GitHub Statistics
+**Başlıca özellikler**
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=muratcivek&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcivek&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+- Müşteri bazlı borç analizi
+- Maksimum borç bakiyesinin tespiti
+- Tarihsel bakiye seyrinin görüntülenmesi
+- Finansal verilerin görselleştirilmesi
+- Katmanlı mimari
+- SQL Server tabanlı veri yönetimi
 
 ---
 
-## 📈 Development Activity
+## GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muratcivek&theme=github-dark-blue&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=muratcivek&show_icons=true&hide_border=true&theme=github_dark&locale=tr"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcivek&layout=compact&hide_border=true&theme=github_dark"
+  />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Geliştirme Aktivitesi
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=muratcivek&theme=github-dark-blue&hide_border=true"
+  />
+</p>
+
+---
+
+## Üzerinde Çalıştığım Konular
 
 - ASP.NET Core Web API
-- Backend Architecture
-- Clean & Maintainable Code
+- ASP.NET Core MVC
+- Backend uygulama mimarileri
+- RESTful API tasarımı
 - Entity Framework Core
 - SQL Server
 - Authentication & Authorization
-- Design Patterns
-- RESTful API Design
+- JWT ve Token yönetimi
+- CQRS ve MediatR
+- Tasarım desenleri
+- Temiz ve sürdürülebilir kod
 
 ---
 
 <p align="center">
-  <b>.NET • ASP.NET Core • Web API • SQL Server • Software Architecture</b>
+  <strong>.NET • ASP.NET Core • Web API • Entity Framework Core • SQL Server</strong>
 </p>
