@@ -3,287 +3,234 @@
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  ASP.NET Core • Web API • C# • SQL Server • Oracle
+  C# • .NET • ASP.NET Core • Web API • SQL Server • Oracle
 </p>
 
 <p align="center">
-.NET ekosistemi üzerinde backend ve web uygulamaları geliştiriyor; 
-veritabanı, API geliştirme ve sürdürülebilir yazılım mimarileri üzerine çalışıyorum.
+  .NET ekosisteminde backend geliştirme, RESTful API tasarımı,
+  veritabanı sistemleri ve sürdürülebilir yazılım mimarileri üzerine çalışıyorum.
 </p>
 
 ---
 
-## Hakkımda
+## 👨‍💻 Hakkımda
 
-.NET ekosistemi üzerinde **backend geliştirme** alanına odaklanıyorum.
+Backend geliştirme alanında ağırlıklı olarak **C# ve .NET teknolojileri** ile çalışıyorum.
 
-ASP.NET Core MVC ve Web API ile uygulamalar geliştiriyor; veri erişiminde
-**Entity Framework Core**, ilişkisel veritabanı tarafında **SQL Server** ve
-**Oracle** kullanıyorum.
+**ASP.NET Core MVC** ve **ASP.NET Core Web API** kullanarak uygulamalar geliştiriyor,
+veri erişim süreçlerinde **Entity Framework Core**, ilişkisel veritabanı tarafında
+**Microsoft SQL Server** ve **Oracle** kullanıyorum.
 
-Projelerimde katmanlı mimari, RESTful API tasarımı, kimlik doğrulama,
-yetkilendirme ve veri erişim süreçleri üzerine çalışıyorum.
+Çalışmalarımda özellikle;
 
-Bunun yanında **Hangfire ile arka plan görevleri**, **Windows Service**
-geliştirme ve **RabbitMQ mesajlaşma altyapısının temel prensipleri**
-üzerine çalışmalar yaptım.
+- Backend uygulama geliştirme
+- RESTful API tasarımı
+- SQL ve ilişkisel veritabanları
+- Entity Framework Core
+- Authentication & Authorization
+- Katmanlı uygulama mimarileri
+- Background processing
+
+konularına odaklanıyorum.
+
+Bunun yanında **MongoDB**, **RabbitMQ** ve modern .NET mimarileri üzerine
+öğrenme ve uygulama çalışmalarımı sürdürüyorum.
 
 ---
 
-# Teknik Yetkinlikler
+## 🛠️ Teknoloji Yığını
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### Veritabanı & Veri Erişimi
+### Veritabanı & ORM
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Backend Araçları & Teknolojileri
+### Backend Araçları & Servisler
 
 <p>
-  <img src="https://img.shields.io/badge/Hangfire-1F2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows%20Service-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hangfire-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows_Service-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
-### Web
+### API & Geliştirme Araçları
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
-### Geliştirme Araçları
+### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-# Backend Çalışma Alanlarım
+## ⚙️ Backend Yetkinlikleri
+
+| Alan | Teknolojiler / Yaklaşımlar |
+|---|---|
+| **Backend** | C#, .NET, ASP.NET Core MVC, ASP.NET Core Web API |
+| **ORM** | Entity Framework Core, LINQ, Code First, Migrations |
+| **Veritabanı** | SQL Server, T-SQL, Oracle SQL |
+| **API** | RESTful API, Swagger, Postman |
+| **Güvenlik** | ASP.NET Core Identity, Authentication, Authorization, JWT |
+| **Mimari** | N-Tier Architecture, Repository Pattern |
+| **Background Processing** | Hangfire, Windows Service |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 🗄️ Veritabanı
+
+Backend geliştirme çalışmalarımda veritabanı tarafına özellikle önem veriyorum.
+
+### SQL Server / T-SQL
 
 ```text
-.NET Backend
-│
-├── ASP.NET Core
-│   ├── MVC
-│   ├── Web API
-│   └── RESTful API
-│
-├── Veri Erişimi
-│   ├── Entity Framework Core
-│   ├── Code First
-│   └── LINQ
-│
-├── Veritabanı
-│   ├── SQL Server / T-SQL
-│   ├── Oracle / SQL
-│   └── MongoDB (öğrenme aşamasında)
-│
-├── Güvenlik
-│   ├── ASP.NET Core Identity
-│   ├── Authentication
-│   ├── Authorization
-│   ├── Role-Based Authorization
-│   └── JWT / Refresh Token
-│
-├── Mimari & Tasarım
-│   ├── N-Tier Architecture
-│   ├── Repository Pattern
-│   ├── CQRS
-│   └── Clean / Onion Architecture çalışmaları
-│
-└── Backend Süreçleri
-    ├── Hangfire
-    ├── Windows Service
-    ├── Background Jobs
-    └── RabbitMQ (temel)
+• CRUD işlemleri
+• JOIN sorguları
+• Subquery
+• Aggregate Functions
+• Grouping
+• Constraints
+• DDL / DML
+• İlişkisel veri modelleme
+• Entity Framework Core entegrasyonu
+```
+
+### Oracle
+
+```text
+• Oracle SQL
+• Veri sorgulama
+• JOIN işlemleri
+• Alt sorgular
+• Fonksiyonlar
+• Veri manipülasyonu
+• İlişkisel veritabanı işlemleri
+```
+
+### MongoDB
+
+MongoDB ve NoSQL yaklaşımı üzerinde çalışmalarımı sürdürüyorum.
+
+```text
+• Document tabanlı veri modeli
+• Collection / Document yapısı
+• CRUD işlemleri
+• Veri sorgulama
+• .NET entegrasyonu
 ```
 
 ---
 
-# Seçilmiş Projeler
+## 🏗️ Mimari & Tasarım Yaklaşımları
 
-## 📬 IdentityMail
+Uygulamalarımda ve eğitim çalışmalarımda aşağıdaki yaklaşımlar üzerinde çalıştım:
 
-**Kurum İçi Mesajlaşma ve Yönetim Sistemi**
+```text
+N-Tier Architecture
+Repository Pattern
+CQRS
+Unit of Work
+Clean Architecture
+Onion Architecture
+SOLID Principles
+DTO Pattern
+Dependency Injection
+```
 
-ASP.NET Core MVC ile geliştirdiğim, kurum içi iletişim ve yönetim
-süreçlerini tek uygulama altında birleştiren web uygulaması.
-
-**Teknolojiler**
-
-`ASP.NET Core MVC` `C#` `Entity Framework Core` `SQL Server` `ASP.NET Core Identity`
-
-**Öne çıkan özellikler**
-
-- Kurum içi mesajlaşma
-- Gelen, gönderilen ve taslak mesaj yönetimi
-- Mesaj arama, filtreleme ve sıralama
-- Authentication & Authorization
-- Role-Based Access Control
-- ASP.NET Core Identity
-- Kullanıcı ve rol yönetimi
-- Kullanıcı hesaplarının aktif/pasif yönetimi
-- Mesaj şikayet ve moderasyon sistemi
-- Admin paneli
-- Yönetici kontrollü şifre sıfırlama
-
-➡️ [Projeyi İncele](https://github.com/muratcivek/IdentityMailProject)
+Clean Architecture, Onion Architecture ve bazı ileri mimari yaklaşımlar
+üzerindeki çalışmalarımı geliştirmeye devam ediyorum.
 
 ---
 
-## 🚚 Kargo Ücreti Hesaplama API
+## 🔐 Authentication & Security
 
-Sipariş sırasında girilen desi bilgisine göre uygun kargo firmasını
-belirleyen ve kargo ücretini otomatik olarak hesaplayan Web API uygulaması.
+.NET uygulamalarında kimlik doğrulama ve yetkilendirme süreçleri üzerine çalışıyorum.
 
-**Teknolojiler**
-
-`ASP.NET Core Web API` `Entity Framework Core` `SQL Server` `Swagger`
-
-**Uygulanan yaklaşımlar**
-
-- RESTful API
-- Entity Framework Core Code First
-- Repository Pattern
-- N-Tier Architecture
-- CQRS
-- Swagger API dokümantasyonu
-- Sipariş ve kargo tarifesi yönetimi
-
----
-
-## 🌐 Modern Web API
-
-Modern .NET backend mimarilerini uygulamak amacıyla geliştirdiğim
-Web API çalışması.
-
-**Teknolojiler ve yaklaşımlar**
-
-`ASP.NET Core Web API` `Entity Framework Core` `JWT` `MediatR`
-
-- Onion Architecture
-- CQRS
-- Repository Pattern
-- Unit of Work
-- MediatR
-- AutoMapper
-- FluentValidation
-- Global Exception Handling
-- JWT Authentication
-- Access & Refresh Token
-- Identity
-
----
-
-## 🚗 Oto Servis ve Satış Yönetim Sistemi
-
-Oto servis ve satış süreçlerinin yönetimi amacıyla geliştirilmiş
-ASP.NET Core MVC tabanlı web uygulaması.
-
-**Teknolojiler**
-
-`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Bootstrap`
-
-**Uygulanan yaklaşımlar**
-
-- N-Tier Architecture
-- Business Layer
-- Data Access Layer
-- Entity Layer
-- Presentation Layer
-- Repository Pattern
-- Authentication & Authorization
-- Responsive web arayüzü
-
----
-
-## 🏦 Müşteri Bakiye Seyri
-
-Finansal veriler üzerinde müşterilerin borç hareketlerini analiz etmek
-ve belirli bir dönem içerisindeki maksimum borç bakiyesini tespit etmek
-amacıyla geliştirdiğim uygulama.
-
-**Teknolojiler**
-
-`C#` `SQL Server` `HTML` `CSS` `JavaScript`
-
-**Öne çıkan özellikler**
-
-- Müşteri bazlı finansal veri analizi
-- Maksimum borç bakiyesi tespiti
-- Maksimum bakiyenin oluştuğu tarihin belirlenmesi
-- Tarihsel borç seyrinin görselleştirilmesi
-- SQL tabanlı veri işleme
-
----
-
-## 🍃 MongoDB Çalışması
-
-MongoDB ve NoSQL veri modelleme yaklaşımını öğrenmek amacıyla
-geliştirmekte olduğum .NET uygulaması.
-
-**Odaklandığım konular**
-
-- MongoDB temel yapısı
-- Document tabanlı veri modeli
-- CRUD işlemleri
-- .NET ile MongoDB entegrasyonu
-- Veri sorgulama
-- Route CRUD işlemleri
-
-> Bu proje aktif olarak geliştirilmekte ve MongoDB öğrenme sürecimin bir parçasıdır.
-
----
-
-# Diğer Teknik Çalışmalar
-
-### 🗄️ SQL & Oracle
-
-İlişkisel veritabanları üzerinde sorgu geliştirme ve veri yönetimi
-çalışmaları yapıyorum.
-
-```sql
-SQL Server / T-SQL
-Oracle SQL
-JOIN işlemleri
-Subquery
-Aggregate Functions
-Constraints
-DDL / DML
-CRUD
-İlişkisel veri modelleme
+```text
+ASP.NET Core Identity
+Authentication
+Authorization
+Role-Based Authorization
+JWT Authentication
+Access Token
+Refresh Token
+Password Management
 ```
 
 ---
 
-### 🧪 API Testleri
+## ⚡ Background Processing
 
-Postman kullanarak REST API'ler üzerinde temel HTTP metodlarıyla
-test senaryoları hazırladım.
+.NET uygulamalarında uygulamanın ana request/response akışından bağımsız
+çalışması gereken süreçler konusunda çalışmalar yaptım.
 
 ```text
+Hangfire
+Background Jobs
+Scheduled Jobs
+Windows Service
+```
+
+Hangfire kullanarak arka plan görevleri ve zamanlanmış işlemler,
+ayrıca .NET ile **Windows Service** geliştirme konusunda çalışma yaptım.
+
+---
+
+## 📨 Messaging
+
+Mesaj tabanlı sistemlerin temel çalışma prensipleri konusunda
+**RabbitMQ** üzerine eğitim ve uygulama çalışmaları yaptım.
+
+Temel olarak;
+
+```text
+Producer
+Consumer
+Queue
+Message
+Publish / Consume
+```
+
+kavramlarına hakimim.
+
+Bu alandaki çalışmalarımı geliştirmeye devam ediyorum.
+
+---
+
+## 🧪 API Geliştirme & Test
+
+REST API geliştirme ve test süreçlerinde:
+
+```text
+ASP.NET Core Web API
+Swagger / OpenAPI
+Postman
+
 GET
 POST
 PUT
@@ -291,63 +238,41 @@ PATCH
 DELETE
 ```
 
-API endpoint'lerinin request/response davranışlarını test etmek için
-Postman ve Swagger kullanıyorum.
+teknolojileri ve HTTP metodlarıyla çalışıyorum.
 
 ---
 
-### 🏗️ Clean Architecture Çalışmaları
+## 📚 Üzerinde Çalıştığım Konular
 
-Clean Architecture ve modern backend tasarım yaklaşımlarını öğrenmek
-amacıyla template ve eğitim projeleri üzerinde çalışmalar yaptım.
-
-Bu çalışmalar kapsamında:
-
-- Clean Architecture
-- DDD temel kavramları
-- CQRS
-- SOLID
-- Repository Pattern
-- AutoMapper
-- Entity Framework Core
-- Dynamic Search
-
-konularını uygulamalı olarak inceledim.
+```text
+ASP.NET Core
+Web API
+Entity Framework Core
+SQL Server
+Oracle
+RESTful API Design
+Clean Architecture
+MongoDB
+RabbitMQ
+Background Processing
+```
 
 ---
 
-### ⚙️ Background Processing
+## 🎯 Odak Noktam
 
-.NET uygulamalarında arka plan süreçleri konusunda çalışmalar yaptım.
+> **.NET Backend Development**
 
-- Hangfire ile background job yönetimi
-- Windows Service geliştirme
-- Zamanlanmış işlemler
-- Arka plan görevlerinin yönetimi
-
-RabbitMQ'nun **producer/consumer, queue ve mesaj tabanlı iletişim**
-gibi temel kavramları konusunda eğitim ve uygulama çalışmaları yaptım.
-
----
-
-# Şu Anda Odaklandığım Konular
-
-- ASP.NET Core Web API
-- Backend uygulama geliştirme
-- SQL ve veritabanı tasarımı
-- Entity Framework Core
-- RESTful API tasarımı
-- MongoDB
-- Clean Architecture
-- Background processing
-- Mesaj tabanlı sistemlerin temel prensipleri
+Backend geliştirme tarafında daha güçlü bir uzmanlık oluşturmak;
+özellikle **ASP.NET Core, Web API, SQL, veritabanı tasarımı ve
+sürdürülebilir backend mimarileri** üzerine ilerlemek temel hedefim.
 
 ---
 
 <p align="center">
-  <strong>.NET Backend Development</strong>
+  <b>C# • .NET • ASP.NET Core • Web API • SQL Server • Oracle</b>
 </p>
 
 <p align="center">
-  C# • ASP.NET Core • Web API • SQL Server • Oracle • Entity Framework Core
+  Backend Development &nbsp;•&nbsp; REST APIs &nbsp;•&nbsp; Database Development
 </p>
