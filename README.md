@@ -256,15 +256,12 @@ Müşterilerin belirli dönemlerdeki borç hareketlerini analiz etmek ve maksimu
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=muratcivek&show_icons=true&hide_border=true&theme=github_dark&locale=tr"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muratcivek&theme=github_dark"
+    alt="GitHub İstatistikleri"
   />
-</p>
-
-<p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcivek&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muratcivek&theme=github_dark"
+    alt="En Çok Kullanılan Diller"
   />
 </p>
 
@@ -274,7 +271,8 @@ Müşterilerin belirli dönemlerdeki borç hareketlerini analiz etmek ve maksimu
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=muratcivek&theme=github-dark-blue&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muratcivek&theme=github_dark"
+    alt="GitHub Geliştirme Aktivitesi"
   />
 </p>
 
