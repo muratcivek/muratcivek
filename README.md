@@ -6,10 +6,6 @@
 .NET ekosistemi üzerinde sürdürülebilir, güvenli ve ölçeklenebilir web uygulamaları geliştiriyorum.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muratcivek&label=Profil%20Görüntülenme&style=flat-square" />
-</p>
-
 ---
 
 ## Hakkımda
