@@ -3,12 +3,12 @@
 <h3 align="center">.NET Backend Developer</h3>
 
 <p align="center">
-  C# • ASP.NET Core • Web API • SQL Server • Oracle
+  C# • .NET • ASP.NET Core • Web API • SQL Server • Oracle
 </p>
 
 <p align="center">
-  Backend geliştirme, RESTful API'ler, veritabanı sistemleri ve
-  .NET ekosistemi üzerine çalışan yazılım geliştirici.
+  Backend uygulamaları, RESTful API'ler, veritabanı sistemleri,
+  background processing ve .NET ekosistemi üzerine çalışan yazılım geliştirici.
 </p>
 
 ---
@@ -24,9 +24,10 @@
   <img src="https://img.shields.io/badge/MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Worker%20Service-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-### Veritabanı & ORM
+### Veritabanı & Data Access
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -35,6 +36,25 @@
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### Background Processing & Messaging
+
+<p>
+  <img src="https://img.shields.io/badge/Hangfire-2C3E50?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Background%20Jobs-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recurring%20Jobs-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows%20Service-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+</p>
+
+### Logging & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Serilog-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seq-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Structured%20Logging-34495E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Centralized%20Logging-34495E?style=flat-square" />
 </p>
 
 ### Güvenlik & Kimlik
@@ -54,15 +74,15 @@
   <img src="https://img.shields.io/badge/CQRS-2C3E50?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat-square" />
   <img src="https://img.shields.io/badge/Onion%20Architecture-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Options%20Pattern-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
-### Servisler & Messaging
+### Hosting & Deployment
 
 <p>
-  <img src="https://img.shields.io/badge/Hangfire-2C3E50?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Service-0078D4?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Background%20Jobs-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
 ### API & Geliştirme Araçları
@@ -95,8 +115,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Background%20Processing-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Background%20Services-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logging%20%26%20Observability-009688?style=for-the-badge" />
 </p>
 
 ---
@@ -105,17 +126,21 @@
 
 | Alan | Teknolojiler |
 |---|---|
-| **Backend** | C#, .NET, ASP.NET Core, MVC, Web API |
+| **Backend** | C#, .NET, ASP.NET Core, MVC, Web API, Worker Service |
 | **Veritabanı** | SQL Server, T-SQL, Oracle SQL, MongoDB |
-| **ORM & Data Access** | Entity Framework Core, LINQ |
+| **ORM & Data Access** | Entity Framework Core, LINQ, Repository Pattern |
 | **API** | RESTful API, Swagger, Postman |
 | **Güvenlik** | ASP.NET Core Identity, JWT, Authentication, Authorization |
-| **Mimari** | N-Tier, Repository Pattern, CQRS, Clean Architecture, Onion Architecture |
-| **Servisler** | Hangfire, Windows Service, Background Jobs, RabbitMQ |
+| **Mimari** | N-Tier, CQRS, Clean Architecture, Onion Architecture, Dependency Injection |
+| **Background Processing** | Hangfire, Recurring Jobs, Retry Policies, Windows Service |
+| **Messaging** | RabbitMQ |
+| **Logging & Observability** | Serilog, Seq, Structured Logging, Centralized Logging |
+| **Configuration** | Options Pattern, Configuration Validation |
+| **Hosting** | IIS, Windows Service |
 | **Araçlar** | Git, GitHub, Visual Studio |
 
 ---
 
 <p align="center">
-  <b>.NET • Backend • API • Database</b>
+  <b>.NET • Backend • API • Background Processing • Database</b>
 </p>
